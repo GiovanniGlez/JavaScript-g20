@@ -318,3 +318,7 @@ console.log ('Hola Koder')
     // let x = 10 + 10 * 3;
     // let x = (10 + 10) * 3;
     // console.log(x)
+
+    // let variableModulo = "Estoy en base.js";
+
+    // functionExpression("desde base");
