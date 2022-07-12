@@ -1,9 +1,9 @@
-/! Tarea
+/*/! Tarea
 
 //?     Tomar un string del usuario
 //?     Imprimir en consola el número de caracteres que tiene esa cadena
 //?     Imprimir cuantas vocales estan presentes
-//?     Imprimir cada uno de los las palabras que hay ('hola koder') => ['hola', 'koders'}
+//?     Imprimir cada uno de los las palabras que hay ('hola koder') => ['hola', 'koders'}*/
 
 
 let string = prompt("Escribe una frase");
