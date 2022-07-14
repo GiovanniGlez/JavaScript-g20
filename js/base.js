@@ -1,4 +1,4 @@
-console.log ('Hola Koder')
+//console.log ('Hola Koder')
 
 // ! Comentarios en Js
 // Esto es un comentario
